@@ -8,3 +8,14 @@ Source: https://github.com/yadler97/mychatapp
 
 Status: not tested so far, "*google-services.json is missing*"
 
+Is not providing a 1:1 chat but only (password secured) rooms, modern design
+
+```plaintext
+Dear Yannick, 
+this is just a note and NOT AN ISSUE. It could be a good idea to place some information in a readme.md file of your repository and inform developers what services need to get setup on Google's Firebase console.
+
+As the "google-services.json" file is missing (what is understandable) in the repo I cannot test the app and it is not as easy as expected to setup all Firebase services in a correct manner. 
+
+Thanks for your understanding and greetings from Germany
+Michael
+```
